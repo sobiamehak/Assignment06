@@ -22,7 +22,7 @@ const Curses = () => {
                     <Image src="/pic1.jpeg" alt="laptop"
                         width={416} height={300} />
                     <h1 className='flex mt-5 text-xl'>dessign
-                        <Image src="/star.svg" alt="rate"
+                        <Image src="/Star.svg" alt="rate"
                             height={24} width={48} className='ml-auto' />
                     </h1>
                     <h1 className='font-bold text-[20px]'>UX/UI Design 201</h1>
@@ -35,7 +35,7 @@ const Curses = () => {
                     <Image src="/pic2.jpeg" alt="laptop"
                         width={416} height={300} />
                     <h1 className='flex mt-5 text-xl'>Programming
-                        <Image src="/star.svg" alt="rate"
+                        <Image src="/Star.svg" alt="rate"
                             height={24} width={48} className='ml-auto' />
                     </h1>
                     <h1 className='font-bold text-[20px]'>Introduction to Python</h1>
@@ -48,7 +48,7 @@ const Curses = () => {
                     <Image src="/pic3.jpeg" alt="laptop"
                         width={416} height={300} />
                     <h1 className='flex mt-5 text-xl'>Business
-                        <Image src="/star.svg" alt="rate"
+                        <Image src="/Star.svg" alt="rate"
                             height={24} width={48} className='ml-auto' />
                     </h1>
                     <h1 className='font-bold text-[20px]'>Data Analysis for Biginners</h1>
@@ -61,7 +61,7 @@ const Curses = () => {
                     <Image src="/pic4.jpeg" alt="laptop"
                         width={416} height={300} />
                     <h1 className='flex mt-5 text-xl'>Art
-                        <Image src="/star.svg" alt="rate"
+                        <Image src="/Star.svg" alt="rate"
                             height={24} width={48} className='ml-auto' />
                     </h1>
                     <h1 className='font-bold text-[20px]'>Art Specialization</h1>
@@ -74,7 +74,7 @@ const Curses = () => {
                     <Image src="/pic5.jpeg" alt="laptop"
                         width={416} height={300} />
                     <h1 className='flex mt-5 text-xl'>Law
-                        <Image src="/star.svg" alt="rate"
+                        <Image src="/Star.svg" alt="rate"
                             height={24} width={48} className='ml-auto' />
                     </h1>
                     <h1 className='font-bold text-[20px]'>Rule of Law</h1>
@@ -88,7 +88,7 @@ const Curses = () => {
                         width={416} height={300} />
                    
                     <h1 className='flex mt-4 text-xl'>Tech
-                        <Image src="/star.svg" alt="rate"
+                        <Image src="/Star.svg" alt="rate"
                             height={24} width={48} className='ml-auto' />
                     </h1>
                     <h1 className='font-bold text-[20px]'>Introduction to webflow</h1>
