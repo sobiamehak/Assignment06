@@ -15,7 +15,7 @@ const Top = () => {
       />
 
       <Image
-        src="/socialinks.svg"
+        src="/Socialinks.svg"
         alt="content"
         height={24}
         width={132}

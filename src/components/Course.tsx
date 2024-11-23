@@ -31,7 +31,7 @@ const Course = () => {
         {/* Frame 2 */}
         <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
           <div>
-            <Image src="/frame2.svg" alt="" width={100} height={100} className='object-center' />
+            <Image src="/Frame2.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
           <div>
             <h1 className='text-center font-bold'>Marketing</h1>
@@ -42,7 +42,7 @@ const Course = () => {
         {/* Frame 3 */}
         <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
           <div>
-            <Image src="/frame 3.svg" alt="" width={100} height={100} className='object-center' />
+            <Image src="/Frame 3.svg" alt="" width={100} height={100} className='object-center' />
           </div>
           <div>
             <h1 className='text-center font-bold'>Development</h1>
@@ -54,7 +54,7 @@ const Course = () => {
         {/* Frame 4 */}
         <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4  '>
           <div>
-            <Image src="/frame 4.svg" alt="frame" width={100} height={100} className='object-center' />
+            <Image src="/Frame 4.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
           <div>
             <h1 className='text-center font-bold'>Communication</h1>
@@ -65,7 +65,7 @@ const Course = () => {
         {/* Frame 5 */}
         <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4 '>
           <div>
-            <Image src="/frame 5.svg" alt="frame" width={100} height={100} className='object-center' />
+            <Image src="/Frame 5.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
           <div>
             <h1 className='text-center font-bold'>Digital Marketing</h1>
@@ -76,7 +76,7 @@ const Course = () => {
         {/* Frame 6 */}
         <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
           <div>
-            <Image src="/frame 6.svg" alt="frame" width={100} height={100} className='object-center' />
+            <Image src="/Frame 6.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
           <div>
             <h1 className='text-center font-bold'>Self Development</h1>

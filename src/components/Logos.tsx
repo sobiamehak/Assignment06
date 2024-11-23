@@ -15,7 +15,7 @@ const Logos = () => {
       {/* Logos Image */}
       <div className="w-full md:w-auto">
         <Image 
-          src="/logos.svg" 
+          src="/Logos.svg" 
           alt="logos" 
           width={880} 
           height={56} 
