@@ -14,11 +14,11 @@ const Hero = () => {
         <div className=''>
 
           {/* text */}
-          <div className="text-center lg:text-left  pt-[80px] lg:pt-[300px]  ">
+          <div className="text-center lg:text-center  pt-[80px] lg:pt-[300px]  ">
             <h1 className="text-4xl lg:text-5xl font-bold  lg:ml-[96px] font-myfont">
               Learn new skills <br /> online with ease
             </h1>
-            <p className=" p-4 ml-24">
+            <p className=" p-4 lg:ml-24 ">
               Discover a wide range of courses covering a variety of <br className="hidden lg:block" />
               subjects, taught by expert instructors.
             </p>
