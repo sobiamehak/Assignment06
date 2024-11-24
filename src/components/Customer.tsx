@@ -9,7 +9,8 @@ const Customer = () => {
         <p className='py-[60px] justify-center text-center'>Lorem ipsum dolor sit amet Lorem, ipsum..</p>
       </div>   
         
-         <div className='justify-center items-center gap-9 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3'>
+         <div className='lg:ml-10 justify-center items-center gap-9 grid grid-cols-1 sm:grid-cols-2
+          md:grid-cols-3'>
              {/* review 1 */}
 <div className='max-w-[365px] h-[325px] border-2 border-black pl-6 '>
 <Image src="/stars.svg" alt="" 
@@ -32,8 +33,9 @@ Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
 
              {/* review 2 */}
 <div className='max-w-[365px] h-[325px] border-2 border-black pl-6 hidden md:block'>
-<Image src="/stars.svg" alt="" 
-width={120} height={20} className='pt-8'/>
+<Image src="/stars.svg" alt=""
+
+                 width={120} height={20} className='pt-8'/>
 <p className='pt-8'>Lorem ipsum dolor, sit amet  give <br />consectetur  adipisicing elit. <br />
 Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
  Lorem ipsum dolor sit amet.</p>

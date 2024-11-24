@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Curses = () => {
     return (
         <div>
-            <div className='  flex  justify-center'>
+            <div className='  flex  justify-center lg:content-center lg:justify-center '>
                 <div>
                 <h1 className='font-bold lg:text-5xl text-2xl text-center mb-10'>Courses</h1>
                 <p className='text-xl'>Your Ultimate Guide to learning</p>
@@ -16,7 +16,7 @@ const Curses = () => {
                 <h1>Recommandation</h1>
                 <h1>Best Price</h1>
             </div>
-            <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:ml-[120px] '>
+            <div className=' lg:ml-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:justify-center lg:content-center md:justify-center md:content-center` '>
                 {/* first card */}
                 <div className='max-w-[416px] h-[534px] bg-[#f7f7f7] mt-10 px-4'>
                     <Image src="/pic1.jpeg" alt="laptop"
@@ -58,7 +58,7 @@ const Curses = () => {
                 </div>
                 {/* 4th card */}
                 <div className='max-w-[416px] h-[534px] bg-[#f7f7f7] mt-10 px-5 hidden md:block'>
-                    <Image src="/pic4.jpeg" alt="laptop"
+                    <Image src="/pic4.jpeg" alt="art"
                         width={416} height={300} />
                     <h1 className='flex mt-5 text-xl'>Art
                         <Image src="/Star.svg" alt="rate"
