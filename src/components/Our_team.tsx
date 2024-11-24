@@ -35,7 +35,7 @@ const Our_team = () => {
           </div>
 
 
-          <div className='max-w-[400px] h-[210px] flex justify-center items-center flex-col  '>
+          <div className='max-w-[400px] h-[210px] lg:flex justify-center items-center flex-col hidden md:block  '>
             <Image src={"/image4.png"} width={80} height={80} alt='black man'></Image>
             <h4 className='font-bold text-xl mb-2 mt-4 '>Erick Kipkemboi</h4>
           <p className='mb-4 text-xl'>Web Designer</p>
@@ -43,7 +43,7 @@ const Our_team = () => {
           </div>
 
 
-          <div className='max-w-[400px] h-[210px] flex justify-center items-center flex-col  '>
+          <div className='max-w-[400px] h-[210px] lg:flex justify-center items-center flex-col hidden md:block '>
             <Image src={"/image5.png"} width={80} height={80} alt='black man'></Image>
             <h4 className='font-bold text-xl mb-2 mt-4 '>Stephen kerubo</h4>
           <p className='mb-4 text-xl'>President of Sales</p>
@@ -52,7 +52,7 @@ const Our_team = () => {
 
 
 
-          <div className='max-w-[400px] h-[210px] flex justify-center items-center flex-col  '>
+          <div className='max-w-[400px] h-[210px] lg:flex justify-center items-center flex-col hidden md:block '>
             <Image src={"/image6.png"} width={80} height={80} alt='black man'></Image>
             <h4 className='font-bold text-xl mb-2 mt-4 '>John leboo</h4>
           <p className='mb-4 text-xl'>Dog Trainer</p>
@@ -63,6 +63,11 @@ const Our_team = () => {
         </div>
 
       </div>
+      <div className='w-full flex justify-center items-center h-44'>
+
+<button className='py-5 px-10 border-2 rounded-md '>View all Courses</button>
+</div>
+
 
     </section>
   )

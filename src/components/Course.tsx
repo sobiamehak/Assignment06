@@ -52,7 +52,7 @@ const Course = () => {
 
 
         {/* Frame 4 */}
-        <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4  '>
+        <div className='bg-[#f7f7f7] w-full h-auto lg:flex justify-around items-center p-4 hidden md:block '>
           <div>
             <Image src="/Frame 4.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
@@ -63,7 +63,7 @@ const Course = () => {
         </div>
 
         {/* Frame 5 */}
-        <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4 '>
+        <div className='bg-[#f7f7f7] w-full h-auto lg:flex justify-around items-center p-4 hidden md:block '>
           <div>
             <Image src="/Frame 5.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
@@ -74,7 +74,7 @@ const Course = () => {
         </div>
 
         {/* Frame 6 */}
-        <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
+        <div className='bg-[#f7f7f7] w-full h-auto lg:flex justify-around items-center p-4 hidden md:block'>
           <div>
             <Image src="/Frame 6.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
@@ -85,7 +85,7 @@ const Course = () => {
         </div>
 
         {/* Frame 7 */}
-        <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
+        <div className='bg-[#f7f7f7] w-full h-auto lg:flex justify-around items-center p-4 hidden md:block'>
           <div>
             <Image src="/frame7.svg" alt="frame" width={100} height={100} className='object-center' />
           </div>
@@ -96,7 +96,7 @@ const Course = () => {
         </div>
 
         {/* Frame 8 */}
-        <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
+        <div className='bg-[#f7f7f7] w-full h-auto lg:flex justify-around items-center p-4 hidden md:block'>
           <div>
             <Image src="/frame8.svg" alt="" width={100} height={100} className='object-center' />
           </div>
@@ -107,7 +107,7 @@ const Course = () => {
         </div>
 
         {/* Frame 9 */}
-        <div className='bg-[#f7f7f7] w-full h-auto flex justify-around items-center p-4'>
+        <div className='bg-[#f7f7f7] w-full h-auto lg:flex justify-around items-center p-4 hidden md:block'>
           <div>
             <Image src="/frame9.svg" alt="" width={100} height={100} className='object-center' />
           </div>

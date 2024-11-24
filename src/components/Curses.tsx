@@ -6,7 +6,7 @@ const Curses = () => {
         <div>
             <div className='  flex  justify-center'>
                 <div>
-                <h1 className='font-bold text-[56px] '>Courses</h1>
+                <h1 className='font-bold lg:text-5xl text-2xl text-center mb-10'>Courses</h1>
                 <p className='text-xl'>Your Ultimate Guide to learning</p>
                 </div>
               
