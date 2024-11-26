@@ -28,7 +28,7 @@ const Hero = () => {
 
           {/* buttons  */}
           <div className='flex justify-between lg:justify-start  gap-1 lg:gap-10 items-center lg:ml-24 '>
-            <button className='border-2 py-3 px-[16px] rounded-[8px]  lg:h-[48px] lg:w-[178px]
+            <button className='border-2 py-3 px-[16px] rounded-[8px]  lg:h-[48px] lg:w-[198px]
             lg:text-xl bg-black text-white  ml-5 text-sm whitespace-nowrap md:text-base'>
               Start Learning now </button>
 
