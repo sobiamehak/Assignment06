@@ -14,7 +14,7 @@ const Customer = () => {
              {/* review 1 */}
 <div className='max-w-[365px] h-[325px] border-2 border-black pl-6 '>
 <Image src="/stars.svg" alt="" 
-width={120} height={20} className='pt-8'/>
+width={100} height={20} className='pt-8'/>
 <p className='pt-8'>Lorem ipsum dolor, sit amet  give <br />consectetur  adipisicing elit. <br />
 Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
  Lorem ipsum dolor sit amet.</p>
@@ -35,7 +35,7 @@ Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
 <div className='max-w-[365px] h-[325px] border-2 border-black pl-6 hidden md:block'>
 <Image src="/stars.svg" alt=""
 
-                 width={120} height={20} className='pt-8'/>
+                 width={100} height={20} className='pt-8'/>
 <p className='pt-8'>Lorem ipsum dolor, sit amet  give <br />consectetur  adipisicing elit. <br />
 Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
  Lorem ipsum dolor sit amet.</p>
@@ -54,7 +54,7 @@ Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
              {/* review 3 */}
 <div className='max-w-[365px] h-[325px] border-2 border-black pl-6 hidden md:block'>
 <Image src="/stars.svg" alt="" 
-width={120} height={20} className='pt-8'/>
+width={100} height={20} className='pt-8'/>
 <p className='pt-8'>Lorem ipsum dolor, sit amet  give <br />consectetur  adipisicing elit. <br />
 Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
  Lorem ipsum dolor sit amet.</p>
@@ -75,7 +75,7 @@ Possimus, quia? Lorem, ipsum <br /> dolor Lorem ipsum dolor sit..<br />
         width={82} height={10} className='ml-10' />
 
 <Image src="/Slider Buttons.svg" alt="dots"
-        width={115} height={50} className='ml-auto mr-10' />
+        width={80} height={50} className='ml-auto mr-10 pt-4' />
       </div>
     </div>
   )

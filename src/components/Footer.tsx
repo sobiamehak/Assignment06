@@ -15,7 +15,8 @@ const Footer = () => {
   Subscribe to our newsletter    </h3>
   <p className="text-sm lg:text-base mt-0 lg:mt-2">  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit.   </p>
  </div>
- <div className="flex flex-col lg:flex-row w-full lg:w-[500px] items-center lg:items-start">       <div className="w-full lg:w-auto">  <input
+ <div className="flex flex-col lg:flex-row w-full lg:w-[500px] items-center lg:items-start"> 
+    <div className="w-full lg:w-auto">  <input
     type="text"
    placeholder="Enter Your Email"
  className="border-2 border-black w-full lg:w-[280px] h-[45px] rounded p-5 mb-0 lg:mb-4"
@@ -101,9 +102,9 @@ const Footer = () => {
                     </div>
 
 
-   <div className='flex justify-center lg:items-center h-10 lg:justify-start '>
+   <div className='flex justify-center lg:items-center h-10 lg:justify-start items-center '>
        <Image src="/Socialinks.svg" width={150} height={150} alt="sobia"
-                            className=' lg:pt-0 pt-20 mb-4' />
+                            className=' lg:pt-0 pt-4' />
  </div >
 
 
