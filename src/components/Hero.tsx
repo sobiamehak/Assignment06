@@ -14,7 +14,7 @@ const Hero = () => {
         <div className=''>
 
           {/* text */}
-          <div className="text-center lg:text-center  pt-[80px] lg:pt-[300px]  ">
+          <div className="text-center lg:text-center  pt-[50px] ">
             <h1 className="text-4xl lg:text-5xl font-bold  lg:ml-[96px] font-myfont">
               Learn new skills <br /> online with ease
             </h1>
